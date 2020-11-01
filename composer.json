@@ -1,0 +1,11 @@
+{
+    "name": "jesus/tatuajesv3",
+    "description": "Proyecto red social 3",
+    "type": "project",
+    "require": {
+        "illuminate/database": "^7.29",
+        "illuminate/events": "^7.29",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2"
+    }
+}
